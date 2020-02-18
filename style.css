@@ -1,0 +1,20 @@
+html {
+  background-image: url(../img/cary.jpg);
+  background-color: #cccccc; /* Used if the image is unavailable */
+  background-blend-mode: luminosity;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+body {
+  font-family: 'Walter Turncoat', cursive;
+}
+
+p {
+  background: url(../img/youtube.png);
+	border-width: 10px 10px 10px 10px;
+  border-style: solid;
+	border-color: hotpink;
+  font-family: 'Walter Turncoat', cursive;
+}
